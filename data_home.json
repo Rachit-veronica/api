@@ -8,7 +8,7 @@
     {
         "name": "shashank",
         "team": "job",
-        "img": "./image/img1.jpg",
+        "img": "https://github.com/Rachit-veronica/api/blob/master/img/.dist/img1.jpg",
         "interview": 500
     }
 ]
