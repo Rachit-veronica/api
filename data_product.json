@@ -1,41 +1,37 @@
 [
     {
-        "name": "rachit",
-        "team": "intenship",
-        "interview": 22
+        "img": "https://raw.githubusercontent.com/Rachit-veronica/api/master/img/kaju_ki_barfi.jpg",
+        "name": "KAJU KATLI",
+        "about": "A traditional Indian dessert characterized by its diamond shape, made with cashew nuts, sugar, cardamom powder, and ghee butter.",
+        "price": 800
     },
 
     {
-        "name": "shashank",
-        "team": "job",
-        "interview": 44
-    },
-        {
-        "name": "rachit",
-        "team": "intenship",
-        "interview": 22
+        "img": "https://raw.githubusercontent.com/Rachit-veronica/api/master/img/chandrakala.jpg",
+        "name": "CHANDRAKALA",
+        "about": "Chandrakala is very famous Indian sweet found in local sweet stalls prepared with maida and khoya as main ingredients.",
+        "price": 420
     },
 
     {
-        "name": "shashank",
-        "team": "job",
-        "interview": 44
-    },
-    
-    {
-        "name": "rachit",
-        "team": "intenship",
-        "interview": 22
+        "img": "https://raw.githubusercontent.com/Rachit-veronica/api/master/img/motichoor_laddu.jpg",
+        "name": "MOTICHOOR LADDU",
+        "about": "Motichur laddu are soft, delish melt in the mouth ladoo made mainly with gram flour, sugar, and spices.",
+        "price": 180
     },
 
     {
-        "name": "shashank",
-        "team": "job",
-        "interview": 44
+        "img": "https://raw.githubusercontent.com/Rachit-veronica/api/master/img/milk%20cake.jpg",
+        "name": "MILK CAKE",
+        "about": "An indian sweet dessert recipe prepared from solidified, sweetened milk which is prepared during festival and religious events.",
+        "price": 420
     },
-        {
-        "name": "shashank",
-        "team": "job",
-        "interview": 44
+
+    {
+        "img": "https://raw.githubusercontent.com/Rachit-veronica/api/master/img/soan_papdi.jpeg",
+        "name": "SOAN PAPDI",
+        "about": "Soan papdi is made by combining sugar, gram-flour and ghee.",
+        "price": 420
     }
+
 ]
